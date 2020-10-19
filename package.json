@@ -1,0 +1,23 @@
+{
+  "name": "dasmoto",
+  "version": "1.0.0",
+  "description": "Codecademy Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Dasmoto"
+  },
+  "keywords": [
+    "art",
+    "project",
+    "learning"
+  ],
+  "author": "Jakey",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
